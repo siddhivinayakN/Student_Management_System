@@ -430,10 +430,10 @@ class Library extends Book {
 }
 
 //lib end....................................................
-class student11 {
+class student_management_system {
 
     public static void main(String ar[]) {
-        student11 stud = new student11();
+        student_management_system stud = new student_management_system();
         studentry ent = new studentry();
         printstud pr = new printstud();
         Library library = new Library();
